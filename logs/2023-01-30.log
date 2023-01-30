@@ -1,0 +1,5 @@
+[2023-01-30 20:21:26] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-01-30 20:21:26] [WARNING]: 将在 5秒 后继续. 
+[2023-01-30 20:21:31] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-01-30 20:21:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-30 20:21:52] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 127.0.0.1:443: connectex: No connection could be made because the target machine actively refused it. 
